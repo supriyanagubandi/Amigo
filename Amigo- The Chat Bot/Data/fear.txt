@@ -1,0 +1,57 @@
+﻿{
+  "quotes": [
+    {
+      "description": "Fear is simply  beacause u r not living with life, u r living in ur mind",
+      
+    },
+    {
+      "description": "The only thing we have to fear is fear itself",
+      
+    },
+    {
+      "description": "Fear Doesn't shut u down : It wakes u up",
+      
+    },
+    {
+      "description": "There is no illusion greater than fear",
+      
+    },
+    {
+      "description": "Do not be afraid:Our fate cannot be taken from us:It is a gift ",
+      
+    },
+    {
+      "description": "Find Out What u r afraid of and go live there",
+      
+    },
+    {
+      "description": "Whatever ur fear,If u face it,it should start to fade",
+      
+    },
+    {
+      "description": "Take a moment to close ur eyes and imagine a place of safety and calm",
+      
+    },
+    {
+      "description": " Sharing fears takes aways a lot of their scariness",
+      
+    },
+    {
+      "description": "I love the ocean. I've always liked the blue, so tranquil and peaceful and gliding. And the fear of it",
+      
+    },
+    {
+      "description": "Meditation makes u calm and gives u the inner  strength to face any situation",
+      
+    },
+    {
+      "description": "Keep reminding urself but everything happens for the best",
+      
+    },
+    {
+      "description": "Meditating daily for 20min will help u get over ur fears eventually",
+      
+    },
+    
+  ]
+}

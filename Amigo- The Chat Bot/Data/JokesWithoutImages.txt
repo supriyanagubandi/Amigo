@@ -1,0 +1,41 @@
+﻿{
+  "quotes": [
+    {
+      "description": "Q: Why dogs don't marry?\n\n\n\nA: Because they are already leading a dog's life!"
+    },
+    {
+      "description": "Patient: Doctor, I have a pain in my eye whenever I drink tea.\n\n\n\nDoctor: Take the spoon out of the mug before you drink."
+    },
+    {
+      "description": "What do you do if someone thinks an onion is the only food that can make them cry?\n\n\n\nThrow a coconut at their face."
+    },
+    {
+      "description": "Why are frogs are so happy?\n\n\n\nThey eat whatever bugs them."
+    },
+    {
+      "description": "Doctor: What do you do when you feel stressed  😟?\n\n\n\nPatient: I go to temple..\n\n\n\n  Doctor: Good.. and you do meditation there?\n\n\n\n Patient: No.. I mix up all shoes kept outside and watch people more stressed than me.. and my stress goes away :)"
+    },
+    {
+      "description": "Little Johnny: Teacher, can I go to the bathroom?\n\n\n\nTeacher: Little Johnny, MAY I go to the bathroom?\n\n\n\nLittle Johnny: But I asked first!"
+    },
+    {
+      "description": "Son: Dad, what is an idiot?\n\n\n\nDad: An idiot is a person who tries to explain his ideas in such a strange and long way that another person who is listening to him can't understand him. Do you understand me?\n\n\n\n Son: No."
+    },
+	{
+      "description": "At the scene of an accident a man was crying: O God! I have lost my hand\n\n\n\n oh!Sardar: Control yourself. Don't cry. See that man. He has lost his head. Is he crying?"
+    },
+    {
+      "description": "Interviewer: How does an electric motor run?\n\n\n\n Sardar: Dhhuuuurrrrrrrrrr. .....\n\n\n\nInteviewer shouts: Stop it.\n\n\n\nSardar: Dhhuurrrr dhup dhup dhup..."
+    },
+    {
+      "description": "I heard something dropped at my house around 3 am. I woke and the thief was searching money in to my lockers and other places.\n\n\n\nI excused him and asked I will also search money with you.. (Haha it is very difficult)"
+    },
+    {
+      "description": "On the wall there was a note - Dogs are peeing.\n\n\n\nBut a man still did it.\n\n\n\nAnother man asked: why you are doing so?\n\n\n\nHe replied: See I am doing and it goes to dog's credit"
+    },
+    {
+      "description": "Through Apple - Vitamin\n\n\n\nThrough Vitamin - Power\n\n\n\nThrough Power - Work\n\n\n\nThrough work - Money\n\n\n\nThrough Money - Love\n\n\n\nThrough Love - Marriage\n\n\n\nThrough Marriage - Wife\n\n\n\nThrough Wife - Tension\n\n\n\nThrough Tension - Illness\n\n\n\nThrough Illness- APPLE"
+    },
+    
+  ]
+}

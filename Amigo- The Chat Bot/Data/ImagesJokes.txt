@@ -1,0 +1,84 @@
+﻿{
+  "imageQuotes": [
+    {
+      "title": "Be anonymous to Principal's daughter",
+      "url": "http://ipost-here.com/wp-content/uploads/2013/04/funny-boy-girl-jokes-daughter-best-good-nice-jokes.jpg"
+    },
+    {
+      "title": "Sardhar want stories",
+      "url": "http://ipost-here.com/wp-content/uploads/2013/04/sardar-funny-jokes-library-telephone-directory-book-best-nice-great-jokes.jpg"
+    },
+    {
+      "title": "most devoted people",
+      "url": "https://3.bp.blogspot.com/-Tn-E8nimXBI/V-5FUP8AbPI/AAAAAAAABsA/RjZf-SqYRPEQrmrtxqNIcK3Uv2-2P4__QCLcB/s1600/0608-E1.jpg"
+    },
+    {
+      "title": "hairstyle is crazy enough",
+      "url": "https://i.pinimg.com/originals/8f/1e/5b/8f1e5b8805ee04c6991716252cf43d3d.jpg"
+    },
+    {
+      "title": "Heat!!.. makes things expand",
+      "url": "https://i.pinimg.com/originals/a1/96/d0/a196d0d3f413e5a5be3f0a25f78b8c71.jpg"
+    },
+    {
+      "title": "Que: STRESSED?\r\r\r\rAns: DESSERTS.",
+      "url": "https://3.bp.blogspot.com/-z0C3m5ygjd0/VVClbq1-RSI/AAAAAAAAvt0/OolzwTmML4g/s1600/006.JPG"
+    },
+    {
+      "title": "Girls with makeup\r\r\r\rbeware of minions!!",
+      "url": "https://i.pinimg.com/originals/93/fa/77/93fa77fe1544ea5095c6822340e92b86.jpg"
+    },
+    {
+      "title": "Feeling Ugly??",
+      "url": "https://i.pinimg.com/originals/57/21/74/5721740f88c407d8a1308db2e955ed3a.jpg"
+    },
+    {
+      "title": "No pen....No life",
+      "url": "https://i.pinimg.com/originals/bc/4c/1b/bc4c1b6ae385a627f8891535ca957664.jpg"
+    },
+    {
+      "title": "A 40 seconds activity",
+      "url": "http://minion-quotes.com/wp-content/uploads/2017/08/da48622022e3354cf9a168162ae07830--super-funny-so-funny.jpg"
+    },
+	{
+	  "title": "Be carfull.... with bugs",
+	  "url": "http://www.generalcomics.com/funny-computer-jokes-cartoons-cartoon-pics/3.gif"
+	},
+    {
+	  "title": "Me showing off my football skills",
+	  "url": "http://quotationsquotes.com/2015/08/15/top-15-very-funny-animated-gifs/"
+	},
+	{
+	  "title": "Why do i do this everytime",
+	  "url": "http://quotationsquotes.com/wp-content/uploads/2015/08/Top-15-Funniest-Animated-GIFs-of-all-time-Funniest.gif"
+	},
+	{
+	  "title": "How to annoy someone",
+	  "url": "http://quotationsquotes.com/wp-content/uploads/2015/08/Top-15-Funniest-Animated-GIFs-of-all-time-Funny-animations.gif"
+	},
+	{
+	  "title": "ME...! when someone say 'party's wrap'",
+	  "url": "http://i.imgur.com/yrntX.gif"
+	},
+	{
+	  "title": "Im only showing half...you guys know what happens next",
+	  "url": "http://www.bestfunnyjokes4u.com/wp-content/uploads/2016/01/fatgirl-motorcycle-animated.gif"
+	},
+	{
+	  "title": "Remember the four of your muscles",
+	  "url": "http://3.bp.blogspot.com/-8s1tf0-Q8Fw/TyamQfrFPCI/AAAAAAAAmdk/4QqVU9GPVi0/s1600/Animated+0446.gif"
+	},
+	{
+	  "title": "Penguins..who said they don't get bullied",
+	  "url": "http://www.bestfunnyjokes4u.com/wp-content/uploads/2014/10/funny-penguins.gif"
+	},
+	{
+	  "title": "Me..how i get sticked to the computer",
+	  "url": "http://www.bestfunnyjokes4u.com/wp-content/uploads/2014/10/gif-of-the-day.gif"
+	},
+	{
+	  "title": "Grandpa.. watch out ur teeth first",
+	  "url": "http://www.bestfunnyjokes4u.com/wp-content/uploads/2014/10/hilarious-gif.gif"
+	},
+  ]
+}

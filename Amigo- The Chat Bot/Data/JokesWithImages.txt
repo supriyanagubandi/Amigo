@@ -1,0 +1,146 @@
+﻿{"jokes":
+	[
+	{
+		"title": "Love",
+		"subtitle":"Counting stars!!",
+		"description":"BOY\t:\tWhat do u think about our love ?  💘 \r\rGirl\t:\tTry to count stars 🌟✨ \r\rBoy\t:\tAww....it's infinte\r\rGirl\t:\r\tNo darling! it's waste of time",
+		"urlToImage":"https://t00.deviantart.net/klXb-JgJ-hXdqIbWjwmGLcKIgGM=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/7d4f/th/pre/f/2015/217/1/e/stargazing_by_johngreeko-d94e35n.jpg",
+        "url": null  
+	},
+	{
+		"title": "Sleeplessness",
+		"subtitle":"Truth revealed",
+		"description":"I asked my heart 💓   why i can't sleep \r\n Heart replied: \rBecause u slept 😴 in the afternoon\r\rDont act like u are in love",
+		"urlToImage":"http://aks.roshd.ir/photos/8.1220.medium.aspx",
+		"url": null
+	},
+	{
+		"title": "peaceful death",
+		"subtitle":"RIP",
+		"description":"When asked how you want to die, this man said: \r\rI would like to die just like my grandpa did,\r\rpeacefully in sleep, not screaming or yelling\r\r like the passengers in the car he was driving",
+		"urlToImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKjEkgXqcs7f69E0R7ZA6sHpcCa7soy3gz0X6KHRrconXB4WH",
+		"url": null
+	},
+	{
+		"title": "Serene and Horror night",
+		"subtitle":"Horror teddy",
+		"description":"Difference between a beautiful night and a horror night.\r\rBeautiful night is,\r\rWhen you hug your teddy bear and sleep.\r\rHorror night is,\r\rWhen your teddy bear hugs you BACK.",
+		"urlToImage":"https://images-eu.ssl-images-amazon.com/images/I/51lbswG7XLL._US500_.jpg",
+		"url": null
+	},
+	{
+		"title": "Crazy friends",
+		"subtitle":"Jack and John",
+		"description":"A guy in a plane stood up & shouted: 'HIJACK!'\r\rAll passengers got scared\r\rFrom the other end of the plane, a guy shouted back 'HI JOHN'.",
+		"urlToImage":"https://s3.amazonaws.com/lowres.cartoonstock.com/transport-hijack-jumbo-pilot-runway-airport_staff-mwln8_low.jpg",
+		"url": null
+	},
+	{
+		"title": "Proud moment",
+		"subtitle":"Grateful for my television",
+		"description":"Hi guys.\r\rI am so happy and proud of myself and I thought I should share with you!!!\r\rToday I saw myself on TV when I turned it off.",
+		"urlToImage":"https://thumb9.shutterstock.com/display_pic_with_logo/929674/724072105/stock-vector-sport-fan-is-watching-sport-program-on-tv-with-great-emotion-young-man-sitting-in-the-armchair-724072105.jpg",
+		"url": null
+	},
+	{
+		"title": "Teacher's Correction",
+		"subtitle":"Made the student wrong",
+		"description":"Teacher to student: 'Make a sentence using the word 'I'\r\rStudent: 'I is..'\r\rTeacher: 'No that is not correct, you should say I am'\r\rStudent: 'Ok. I am the ninth letter in the Alphabet'!",
+		"urlToImage":"http://www.teluguone.com/tonecmsuserfiles/Teacher%20Student%20Jokes(1).jpg",
+		"url": null
+	},
+	{
+		"title": "Accidents outside work place",
+		"subtitle":"No Compensation",
+		"description":"Employee: Boss, I’ve got married. Can I get a pay rise?\r\rBoss: We do not compensate for the accidents that happen outside of the work place.",
+		"urlToImage":"http://www.theriverstonegroup.com/wordpress/wp-content/uploads/2014/07/Worst-Boss-Ever.jpg",
+		"url": null
+	},
+	{
+		"title": "Reduce accidents",
+		"subtitle":"Slow down at breaks",
+		"description":"interview: Tell me one idea which will reduce train accident?\r\rMan: Well.. we can make speed break on tracks.",
+		"urlToImage":"https://s3.amazonaws.com/lowres.cartoonstock.com/transport-car-train-auto-automobile-level_crossing-tbrn76_low.jpg",
+		"url": null
+	},
+	{
+		"title": "Miser’s friend",
+		"subtitle":"Eats a lot",
+		"description":"Miser: Please take some more peanut from me.\r\rFriend: No, I am done, I already eaten 20 peanuts.\r\rMiser: No, you have eaten 25 pieces, but don't worry - who is counting.. come on have more.. :)",
+		"urlToImage":"https://assets.catawiki.nl/assets/2017/12/11/9/1/a/91a82cf9-1df1-45cd-829a-97cb33a71f53.jpg",
+		"url": null
+	},
+	{
+		"title": "Car and Traffic light",
+		"subtitle":"They converse with signals",
+		"description":"What did the traffic light say to the car?\r\r\r\rDon’t look! I’m about to change.",
+		"urlToImage":"http://clipartmag.com/images/cartoon-traffic-light-clipart-13.jpg",
+		"url": null
+	},
+	{
+		"title": "Vest vs Arrest",
+		"subtitle":"Fatty Cop",
+		"description":"What did the cop say to his stomach?\r\r\r\rStop! I’ve got you under a vest!",
+		"urlToImage":"https://previews.123rf.com/images/bronipoezd/bronipoezd1412/bronipoezd141200047/34659903-fat-man-in-a-police-uniform-traffic-police.jpg",
+		"url": null
+	},
+	{
+		"title": "Kangroos",
+		"subtitle":"Seasonal Outfit",
+		"description":"What do baby kangaroos wear when it’s cold out?\r\r\r\rJumpsuits.",
+		"urlToImage":"http://www.yim778.com/data/out/75/887551.jpg",
+		"url": null
+	},
+	{
+		"title": "Ocean is Dirty",
+		"subtitle":"And that’s why mermaids exist",
+		"description":"Who do call when the ocean needs a little cleaning?\r\r\r\rA mermaid, of course.",
+		"urlToImage":"http://78.media.tumblr.com/795dbc7be2d9360a80921ae813fcded0/tumblr_p182g3YYED1sjmhs2o1_1280.png",
+		"url": null
+	},
+	{
+		"title": "cctv",
+		"subtitle":"Made things difficult",
+		"description":"Grandfather: When I was your age, I used to go to the market with two Rupees and bring home soap, rice, milk, bread, ghee, face powder etc.\r\rGrandson: nowadays it is difficult.\r There are CCTV cameras everywhere.",
+		"urlToImage":"http://www.harunyahya.com/image/stories_for_thinking_children_1/grandfather_and_grandson.jpg",
+		"url": null
+	},
+	{
+		"title": "Relative vs Guy",
+		"subtitle":"Perfect Revenge",
+		"description":"Relative: Son, what’s your age?\r\rGuy: 25\r\rRelative: it’s an age of marriage, son. When will you marry?\r\rGuy: Very soon. And what’s your age, uncle?\r\rRelative: 70\r\rGuy: it’s an age of death, uncle. When will you die?",
+		"urlToImage":"",
+		"url": null
+	},
+	{
+		"title": "teacher question",
+		"subtitle":"smart student",
+		"description":"Teacher: Why are you late?\r\r\r\rStudent: There was a man who lost a hundred dollar bill.\r\r\r\rTeacher: That's nice. Were you helping him look for it?\r\r\r\rStudent: No. I was standing on it.",
+		"urlToImage":"http://2.bp.blogspot.com/-ev7TjJEL9t0/UQSqhlc5fAI/AAAAAAAAACw/FfZNGVbIMMw/s1600/student-teacher-funny-classroom-jokes.jpg",
+		"url":null
+	},
+	{
+	"title":"patient shock",
+	"subtitle":"doctor rock",
+	"description":"A man receives a phone call from his doctor./r/r/r/rThe doctor says, 'I have some good news and some bad news./r/r/r/'The man says, 'OK, give me the good news first./r/r/r/r'The doctor says, 'The good news is, you have 24 hours to live./r/r/r/r'The man replies, 'Oh no! If that's the good news, then what's the bad news?'/r/r/r/rThe doctor says, 'The bad news is, I forgot to call you yesterday.'",
+	"urlToImage":"http://www.teluguone.com/tonecmsuserfiles/doctor_patient_insurance_jokes(1).png",
+	"url": null
+	},
+	{
+	"title":"listen",
+	"subtitle":"next please",
+	"description":"Patient: Doctor! You've got to help me! Nobody ever listens to me. No one ever pays any attention to what I have to say./r/r/r/rDoctor: Next please! ",
+	"urlToImage":"https://fibromialgiamelilla.files.wordpress.com/2012/11/medicos-total1.jpg",
+	"url": null
+	},
+	{
+	"title":"55",
+	"subtitle":"How to write",
+	"description":"A teacher asked a student to write 55./r/r/r/rStudent asked: How?/r/r/r/rTeacher: Write 5 and beside it another 5!/r/r/r/rThe student wrote 5 and stopped./r/r/r/rteacher: What are you waiting for?/r/r/r/rstudent: I don't know which side to write the other 5! ",
+	"urlToImage":"",
+	"url": null
+	},
+	]
+} 
+
+

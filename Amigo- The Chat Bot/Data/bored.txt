@@ -1,0 +1,60 @@
+﻿{
+  "bored": [
+    {
+      "description": "Clean out garage"
+    },
+    {
+      "description": "Take an app"
+    },
+    {
+      "description": "Cook Something new"
+    },
+    {
+      "description": "Paint a room"
+    },
+    {
+      "description": "Change ur hair color"
+    },
+    {
+      "description": "Connect with someone from ur past"
+    },
+    {
+      "description": "Research ur family tree"
+    },
+    {
+      "description": "Plant Garden"
+    },
+    {
+      "description": "Play sudoku"
+    },
+    {
+      "description": "Make a wish list"
+    },
+    {
+      "description": "Change ur surroundings"
+    },
+    {
+      "description": "Wash the Car"
+    },
+    {
+      "description": "Walk the dog"
+    },
+    {
+      "description": "Tackle ur bucket list"
+    },
+    {
+      "description": "Make an awesome breakfast"
+    },
+    {
+      "description": "Shop ur closet"
+    },
+    {
+      "description": "Make a long drive with ur partner"
+    },
+    {
+      "description": "Try out horror movie with ur grandmother"
+    },
+    
+    
+  ]
+}

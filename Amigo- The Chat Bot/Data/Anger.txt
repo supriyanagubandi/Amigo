@@ -1,0 +1,35 @@
+﻿{
+  "quotes": [
+    {
+      "description": "Count 1-20numbers...."
+    },
+    {
+      "description": "Count 1-20 numbers in reverse order"
+    },
+    {
+      "description": "Try to do meditation"
+    },
+    {
+      "description": "Listen Ur Favourite Muisc"
+    },
+    {
+      "description": "Inhaleand Exhale until u calm down"
+    },
+    {
+      "description": "Try to sleep"
+    },
+    {
+      "description": "Cooloff with excercise"
+    },
+    {
+      "description": "Think of apleasant memory"
+    },
+    {
+      "description": "Read a book"
+    },
+    {
+      "description": "Find ur happy place"
+    },
+    
+  ]
+}

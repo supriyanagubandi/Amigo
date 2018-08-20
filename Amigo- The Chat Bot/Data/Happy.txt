@@ -1,0 +1,61 @@
+﻿{
+  "happy": [
+    {
+      "description": "I hope all success will come true!",
+      
+    },
+    {
+      "description": "A beautiful soul deserves  beautiful things",
+      
+    },
+    {
+      "description": "Hardwork paysoff",
+      
+    },
+    {
+      "description": "Aim for the stars!!",
+      
+    },
+    {
+      "description": " If Oscars were given for a job, i would nominate  u..",
+      
+    },
+    {
+      "description": "Make this moment last forever!",
+      
+    },
+    {
+      "description": "Making the impossible into possible is ur own style",
+      
+    },
+    {
+      "description": "Ur positive actions combined with postive thinking results in success",
+      
+    },
+    {
+      "description": " Stop chasing the money and start chasing the passion",
+      
+    },
+    {
+      "description": "Dont be afraid to give up the good to go for the great",
+      
+    },
+    {
+      "description": "The  starting point of all the achievements is desire",
+      
+    },
+    {
+      "description": "You are never too old to set another goal or to dream a new dream",
+      
+    },
+    {
+      "description": "Leaders never satisfied : they continually strive to be better",
+      
+    },
+    {
+      "description": "Good,better,best never let it rest",
+      
+    },
+    
+  ]
+}
